@@ -11,7 +11,6 @@ venv/
 .DS_Store
 
 # Large datasets
-data/
 *.csv
 *.fits
 
