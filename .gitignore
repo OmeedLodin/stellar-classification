@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# Large datasets
+data/
+*.csv
+*.fits
+
+# Models
+models/
