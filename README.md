@@ -27,6 +27,23 @@ The primary objectives of this project are to:
 
 ---
 
+# Current Project Status
+
+This project is currently a work in progress.
+
+Ongoing work includes:
+
+- Data preprocessing and cleaning
+- Model training and tuning
+- Comparative evaluation
+- Feature engineering
+- Misclassification analysis
+- Literature benchmarking
+
+Additional experimentation and documentation will continue as development progresses.
+
+---
+
 # Dataset
 
 The project currently uses the SDSS DR18 dataset.
@@ -158,23 +175,6 @@ The goal is to assess how the project performs relative to existing astronomical
 
 ---
 
-# Current Project Status
-
-This project is currently a work in progress.
-
-Ongoing work includes:
-
-- Data preprocessing and cleaning
-- Model training and tuning
-- Comparative evaluation
-- Feature engineering
-- Misclassification analysis
-- Literature benchmarking
-
-Additional experimentation and documentation will continue as development progresses.
-
----
-
 # Technologies Used
 
 - Python
@@ -191,19 +191,12 @@ Additional experimentation and documentation will continue as development progre
 ```text
 ├── data/
 ├── notebooks/
-├── models/
-├── plots/
-├── results/
+├── models/ (empty)
+├── plots/ (empty)
+├── results/ (empty)
 ├── requirements.txt
 └── README.md
 ```
-
----
-
-# Contributors
-
-- Omeed Lodin
-- Asad Murad
 
 ---
 
@@ -217,5 +210,12 @@ Potential future extensions include:
 - Cross-survey generalization
 - Explainable AI methods for astronomical classification
 - Expanded astrophysical feature engineering
+  
+---
+
+# Contributors
+
+- Omeed Lodin
+- Asad Murad
 
 ---
